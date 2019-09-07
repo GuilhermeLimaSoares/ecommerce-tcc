@@ -1,0 +1,55 @@
+
+.over-first{
+  padding-top: 10px;
+  background-color: orangered;
+  height: 40px;
+}
+.first1{
+  margin-left: 50px;
+  font-size: 13px;
+
+}
+.first{
+  margin-left: 1150px;
+  font-size: 13px;
+  margin-top: -22px;
+
+}
+
+.nav-color{
+  background-color: orangered;
+  /*border: 1px solid red; */
+}
+.search img{
+  width: 15px;
+  display: inline-block;
+}
+
+.formsx{
+    margin-top: -130px;
+    margin-left: 230px;
+    margin-bottom: 70px;
+}
+
+.span2 {
+  width: 500px;
+}
+
+.topic-color ul li a{
+  color: black;
+}
+.buy{
+  margin-left: 1100px;
+  margin-top: -130px;
+  margin-bottom: 80px;
+}
+
+.buy p{
+  margin-left: 50px;
+  margin-top: -40px;
+}
+.shopping-cart{
+  width: 40px;
+  background-color: orangered;
+  padding: 10px;
+}

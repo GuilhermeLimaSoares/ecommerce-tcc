@@ -1,0 +1,28 @@
+/* footer{
+  background-color: orangered;
+} */
+
+.footer{
+  /* padding: 20px; */
+  /* background-color: orangered;
+  width: 100%; */
+
+  background-color: orangered;
+  width: 1349px;
+  height: 300px;
+  padding-top: 50px;
+  /* padding-bottom: 50px; */
+}
+
+.topic1{
+  margin-top: 20px;
+}
+.topic2{
+  margin-left: 250px;
+  margin-top: -200px;
+}
+
+.topic3{
+  margin-left: 550px;
+  margin-top: -155px;
+}
